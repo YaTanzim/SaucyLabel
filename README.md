@@ -1,2 +1,2 @@
 # SaucyLabel
- Twitter source label changer (unfinished)
+ Twitter source label changer
